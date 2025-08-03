@@ -1,2 +1,14 @@
 # diy-location-tracker
-Open hardware and software for building your own location tracker. Covers everything from hardware assembly and firmware to cloud integration and data visualization.
+
+Open-source project for building your own GPS/location tracker from scratch—covering hardware, firmware, cloud, and software.
+
+**Goals:**
+- Help anyone create a working, privacy-focused location tracker
+- Share all design files, code, and testing notes openly
+- Document the whole process, from breadboard to app
+
+**Status:** Early prototyping
+
+---
+
+Feedback, suggestions, and collaboration are welcome!
